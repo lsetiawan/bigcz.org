@@ -14,7 +14,7 @@ The BiG CZ Data Portal is available at <https://portal.bigcz.org>.
 
 ### Geospatial Data Analytics
 
-<img src="https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/BiGCZDataPortal-Screenshot2-AreaAnalyze.png?raw=true" align="right" width="350">
+{% lightbox https://github.com/BiG-CZ/bigcz.org/blob/master/assets/img/BiGCZDataPortal-Screenshot2-AreaAnalyze.png?raw=true  --data="bigcz_images" --title="Analyze screenshot" --alt="Analyze screenshot" --img-style="width:250px;align:right;" %}
 
 The BiG CZ Data Portal is built on the framework for the WikiWatershed / Model My Watershed Web Application <https://app.wikiwatershed.org>, which is built on a fully open-source stack available at <https://github.com/WikiWatershed>. 
 
